@@ -27,7 +27,7 @@
   <script type="text/javascript">
     var businessesHREF = [{% for business in site.businesses %}"{{ site.baseurl }}{{ business.url }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
     var businessesTitle = [{% for business in site.businesses %}"{{ business.title }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
-    var businessesImage = [{% for business in site.businesses %}"{{ site.baseurl }}{{ business.image }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
+    var businessesImage = [{% for business in site.businesses %}"{{ business.image }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
   </script>
 
   <!-- Icons -->
