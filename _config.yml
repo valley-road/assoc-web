@@ -8,13 +8,13 @@ permalink:        pretty
 title:            'Valley Road'
 tagline:          'Naturally Great'
 description:      'Valley Road is a great place for family, friends, and individuals to enjoy the many sites, activities, and services of businesses that want you to have a wholesome experience with a touch of country.'
-url:              https://valley-road.github.io/assoc-web/
-baseurl:          https://valley-road.github.io/assoc-web/
+url:              'https://valley-road.github.io/assoc-web'
+baseurl:          'https://valley-road.github.io/assoc-web'
 
 # Posts Author
 author:
   name:           'Valley Road Association'
-  url:            http://valleyroad.ca
+  url:            'http://valleyroad.ca'
 
 # Collections
 collections:
