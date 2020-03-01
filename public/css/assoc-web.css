@@ -6,6 +6,11 @@ display: none;
   display: none;
 }
 
+.sidebar-nav-item {
+  display: inline;
+  padding-right: 1rem;
+}
+
 @media (min-width: 48em) {
   .content {
     padding-top: 1rem;
@@ -29,6 +34,10 @@ display: none;
   .sidebar-description{
     display: block;
   }
+  .sidebar-nav-item {
+    display: block;
+    padding: 0;
+    }
 }
 
 .related {
