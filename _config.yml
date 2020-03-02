@@ -1,6 +1,3 @@
-# Dependencies
-markdown:         redcarpet
-
 # Permalinks
 permalink:        pretty
 
@@ -20,12 +17,3 @@ author:
 collections:
     businesses:
       output: true
-
-# Plugins
-plugins:
-  - jekyll-paginate
-  - jekyll-gist
-  - redcarpet
-
-# Paginate Plugin Settings
-paginate:         20
