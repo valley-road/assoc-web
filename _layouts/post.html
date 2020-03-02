@@ -7,8 +7,8 @@ layout: default
 
   <hr>
 
-  <a href="{{page.website}}" target="_blank"><img src="{{page.image}}" alt="{{page.title}}"/></a>
-  <strong>Website:</strong> <a href="{{page.website}}" target="_blank">{{page.website}}</a>
+  <a href="{{ page.website }}" target="_blank"><img src="{{ page.image }}" alt="{{ page.title }}"/></a>
+  <strong>Website:</strong> <a href="{{ page.website }}" target="_blank">{{ page.website }}</a>
 
   <br><br>
 
@@ -16,7 +16,7 @@ layout: default
 
   <br>
 
-  <h2>Find {{page.title}}</h2>
+  <h2>Find {{ page.title }}</h2>
 
   <hr>
 
@@ -26,7 +26,7 @@ layout: default
     var map = new mapboxgl.Map({
       container: 'map',
       style: 'mapbox://styles/mapbox/streets-v11',
-      center: [{{page.longlat}}], // starting position [lng, lat]
+      center: [{{ page.longlat }}], // starting position [lng, lat]
       zoom: 12 // starting zoom
     });
 
@@ -128,6 +128,13 @@ layout: default
       });
     });
   </script>
+
+  <br>
+
+  <address>
+    {{ page.address }}
+  </address>
+
 </div>
 
 <div class="related">
@@ -138,32 +145,32 @@ layout: default
   <ul>
     <script type="text/javascript">
 
-        var randomIndexUsed = [];
-        var counter = 0;
-        var numberOfbusinesses = 4;
+      var randomIndexUsed = [];
+      var counter = 0;
+      var numberOfbusinesses = 4;
 
-        while (counter < numberOfbusinesses)
+      while (counter < numberOfbusinesses)
+      {
+        var randomIndex;
+        var businessHREF;
+        var businessTitle;
+        var businessImage;
+
+        randomIndex = Math.floor(Math.random() * businessesHREF.length);
+
+        if (randomIndexUsed.indexOf(randomIndex) == "-1")
         {
-            var randomIndex;
-            var businessHREF;
-            var businessTitle;
-            var businessImage;
+          businessHREF = businessesHREF[randomIndex];
+          businessTitle = businessesTitle[randomIndex];
+          businessImage = businessesImage[randomIndex];
 
-            randomIndex = Math.floor(Math.random() * businessesHREF.length);
+          document.write('<li><a href="' + businessHREF + '">' + businessTitle + '</a></li>');
 
-            if (randomIndexUsed.indexOf(randomIndex) == "-1")
-            {
-                businessHREF = businessesHREF[randomIndex];
-                businessTitle = businessesTitle[randomIndex];
-                businessImage = businessesImage[randomIndex];
+          randomIndexUsed.push(randomIndex);
 
-                document.write('<li><a href="' + businessHREF + '">' + businessTitle + '</a></li>');
-
-                randomIndexUsed.push(randomIndex);
-
-                counter++;
-            }
+          counter++;
         }
+      }
 
     </script>
   </ul>

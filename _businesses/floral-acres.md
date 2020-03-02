@@ -4,6 +4,7 @@ title: Floral Acres Garden Centre
 tags: Garden Centre, Greenhouse
 website: "https://floralacres.ca/"
 image: "https://valley-road.github.io/assoc-web/public/businesses/hero-floral-acres.png"
+address: 310 Valley Road, Saskatoon, Saskatchewan, S7K 3J6
 longlat: -106.740313,52.070813
 ---
 Floral Acres is a thriving greenhouse and garden centre located on Saskatoon's Valley Road.
