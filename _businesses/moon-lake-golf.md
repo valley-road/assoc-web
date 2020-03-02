@@ -6,4 +6,4 @@ website: "https://moonlakegolf.com"
 image: "https://valley-road.github.io/assoc-web/public/businesses/hero-moon-lake-golf.png"
 longlat: -106.766312,52.013062
 ---
-Lorem ipsum delor amet. This is an introduction paragraph about the business that is listed in this post. This will give an overview of the business and provide some content on the post page
+This course was built in 1989, opening its first nine in June of 1990. Moon Lake is a links, dunes style golf course, reminiscent of the old Scottish design. The course follows the traditional Scottish links design with water hazards, heavily mounded fairways and long native grass roughs. This beautiful 27 hole Scottish Links style championship golf course will be an experience you won't forget!

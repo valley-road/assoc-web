@@ -6,4 +6,4 @@ website: "https://blackfoxfarmanddistillery.com"
 image: "https://valley-road.github.io/assoc-web/public/businesses/hero-black-fox-farm.png"
 longlat: -106.745812,52.077063
 ---
-Lorem ipsum delor amet. This is an introduction paragraph about the business that is listed in this post. This will give an overview of the business and provide some content on the post page
+Our non-traditional farm produces award winning spirits and flowers.  We are proud to grow the ingredients that go into our bottles and we have created the largest cut flower farm on the prairies.  We host tours, events and festivals so we can share our farm with you.

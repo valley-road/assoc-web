@@ -6,4 +6,4 @@ website: "https://www.riversideresortforpets.ca"
 image: "https://valley-road.github.io/assoc-web/public/businesses/hero-riverside-resort.png"
 longlat: -106.730563,52.084938
 ---
-Lorem ipsum delor amet. This is an introduction paragraph about the business that is listed in this post. This will give an overview of the business and provide some content on the post page
+Whether your pet needs a day of play, one night off or an extended vacation, their nails trimmed or a wash, Riverside Resort: Pets on Vacation is here to make it happen. Our pet services facility in Saskatoon is outfitted with everything your dog or cat could want from daycare entertainment, overnight boarding, and pet detailing services served up with care by our personable staff.

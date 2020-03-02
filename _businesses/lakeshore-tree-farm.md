@@ -6,4 +6,4 @@ website: "http://www.lakeshoretreefarms.com"
 image: "https://valley-road.github.io/assoc-web/public/businesses/hero-lakeshore-tree-farm.png"
 longlat: -106.785187,51.997187
 ---
-Lorem ipsum delor amet. This is an introduction paragraph about the business that is listed in this post. This will give an overview of the business and provide some content on the post page
+We proudly serve landscape contractors, garden centres, golf courses and municipalities.  We ask that all visitors and customer pickups be by appointment only from 8:00am to 4:30 pm weekdays.  For our retail stores in Saskatoon, Sk. visit [www.lakeshoregardencentre.com](www.lakeshoregardencentre.com).

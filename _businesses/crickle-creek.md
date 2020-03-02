@@ -6,4 +6,7 @@ website: "http://cricklecreek.ca"
 image: "https://valley-road.github.io/assoc-web/public/businesses/hero-crickle-creek.png"
 longlat: -106.742313,52.071188
 ---
-Lorem ipsum delor amet. This is an introduction paragraph about the business that is listed in this post. This will give an overview of the business and provide some content on the post page
+Come enjoy the unique Crickle Creek experience located minutes south from Saskatoon on picturesque Valley Road
+With Mini Golf, Par 3 Golf Course and our one of a kind "Fun Zone", we offer entertainment for all ages
+Finish your adventure off with a cold treat from "What"s the Scoop! Ice Cream Works".
+With activities for all ages, bring the whole family and spend the day!

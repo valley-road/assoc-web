@@ -6,4 +6,4 @@ website: "http://www.rhodesraspberries.ca"
 image: "https://valley-road.github.io/assoc-web/public/businesses/hero-rhodes-raspberries.png"
 longlat: -106.764562,52.091188
 ---
-Lorem ipsum delor amet. This is an introduction paragraph about the business that is listed in this post. This will give an overview of the business and provide some content on the post page
+Rhodes' Raspberries and Blackcurrants is a family U-Pick operation, started in 2004 by Peter Rhodes. Raspberries (of fourteen varieties, including black, yellow and red berries), three varieties of Black Currants, three varieties of Saskatoon Berries, and Sea Buckthorn Berries are available for picking from early July to late-September. Frozen Black Currants are available year round!

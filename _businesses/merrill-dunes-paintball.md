@@ -6,4 +6,4 @@ website: "http://goodspaces.homestead.com"
 image: "https://valley-road.github.io/assoc-web/public/businesses/hero-merrill-dunes.png"
 longlat: -106.790312,52.048063
 ---
-Lorem ipsum delor amet. This is an introduction paragraph about the business that is listed in this post. This will give an overview of the business and provide some content on the post page
+3 flavors of local, outdoor action-tag! Heart pumping, public airsoft events, and private laser-tag and paintball events- personalized to suit every adventure need. Regular paintball, soft hit / low impact paintball, winter paintball, night paintball! Indoor or outdoor in simple to complex formats.  Available all year subject to overload periods during the summer months.
