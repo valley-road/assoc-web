@@ -129,7 +129,7 @@ navigation_header:
   url: /news/
 - title: Contact
   url: /contact/
-- title: Search
+- title: ":mag:"
   url: /search/
 
 navigation_footer:
