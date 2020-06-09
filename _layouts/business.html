@@ -1,0 +1,65 @@
+---
+layout: default
+---
+
+{% include site-header.html %}
+
+<main class="main  container">
+
+  <article class="article  article--page  content  typeset">
+      
+    <!-- BUSINESS NAME -->
+    <section>
+        <h1>{{ page.title }}</h1>
+      </section>
+      
+      <!-- BUSINESS IMAGE/WEBSITE-->
+      <section>
+        <a href="{{ page.website }}" target="_blank">
+          <img src="{{ page.image | relative_url }}" alt="{{ page.title }}"/>
+        </a>
+        <p>
+          <strong>Website:</strong> 
+          <a href="{{ page.website }}" target="_blank">
+            {{ page.website }}
+          </a>
+          <br>
+          <strong>Phone:</strong> 
+           <a href="tel:+1{{ page.phone | replace: '-', ''}}">
+             {{ page.phone }}
+            </a>
+        </p>
+      </section>
+      
+      <!-- BUSINESS DISCRIPTION-->
+      <section>
+        <h2>About {{ page.title }}</h2>
+        {{ content }}
+      </section>
+      
+      <!-- BUSINESS MAP/ADDRESS -->
+      <section>
+        <h2>Find {{ page.title }}</h2>
+        
+        <address>
+          <strong>{{ page.address }}</strong>
+        </address>
+
+        {% include js/map.html %}
+      </section>
+      
+      <!-- MORE BUSINESSES -->
+       <section>
+        <h2>More Businesses</h2>
+        <ul>
+          {% include js/random.html %}
+        </ul>
+       </section> 
+
+  </article>
+
+  {% if page.aside == true %}{% include site-aside.html %}{% endif %}
+
+</main>
+
+{% include site-footer.html %}

@@ -1,0 +1,38 @@
+- name: John Smith
+  company: Valley Road Association
+  position: President
+  image: https://via.placeholder.com/150
+  email: president@valleyroad.ca
+  bio: The president is the executive officer of the organization.
+
+
+- name: Jenny Vice 
+  company: Valley Road Association
+  position: Vice President
+  image: https://via.placeholder.com/150
+  email: vice-president@valleyroad.ca
+  bio: The vice president is the operations officer of the organization.
+
+
+- name: Jane Doe
+  company: Valley Road Association
+  position: Treasurer
+  image: https://via.placeholder.com/150
+  email: treasurer@valleyroad.ca
+  bio: The treasurer is the financial officer of the organization.
+
+
+- name: Joe John
+  company: Valley Road Association
+  position: Secretary
+  image: https://via.placeholder.com/150
+  email: secretary@valleyroad.ca
+  bio: The secretary is the officer responsible for the records and correspondence of the organization.
+
+
+- name: Jack Webb
+  company: Valley Road Association
+  position: Webmaster
+  image: https://via.placeholder.com/150
+  email: webmaster@valleyroad.ca
+  bio: The webmaster is the officer responsible for website updates and maintenance. 

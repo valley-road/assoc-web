@@ -1,0 +1,28 @@
+<script type="text/javascript">
+    var randomIndexUsed = [];
+    var counter = 0;
+    var numberOfbusinesses = 6;
+
+    while (counter < numberOfbusinesses)
+    {
+        var randomIndex;
+        var businessHREF;
+        var businessTitle;
+        var businessImage;
+
+        randomIndex = Math.floor(Math.random() * businessesHREF.length);
+
+        if (randomIndexUsed.indexOf(randomIndex) == "-1")
+        {
+        businessHREF = businessesHREF[randomIndex];
+        businessTitle = businessesTitle[randomIndex];
+        businessImage = businessesImage[randomIndex];
+
+        document.write('<li><a href="' + businessHREF + '">' + businessTitle + '</a></li>');
+
+        randomIndexUsed.push(randomIndex);
+
+        counter++;
+        }
+    }
+</script>
