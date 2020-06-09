@@ -3,8 +3,8 @@ layout: business
 title: B & B Tree Services
 tags:
 website: "http://www.treebrothers.ca/"
-image: "assets/img/businesses/hero-bb-tree-service.png"
-feature_image: "/assets/img/businesses/image-bb-tree-service.png"
+image: "https://valley-road.github.io/assoc-web/assets/img/businesses/hero-bb-tree-service.png"
+feature_image: "https://valley-road.github.io/assoc-web/assets/img/businesses/image-bb-tree-service.png"
 address: Box 113, R.R.#3, Saskatoon, Saskatchewan, S7K 3J6
 phone: 306-221-9233
 longlat: -106.746563,52.056812

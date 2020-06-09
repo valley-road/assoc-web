@@ -3,8 +3,8 @@ layout: business
 title: Tuff Turf
 tags: Landscaping
 website: "https://www.tuffturf.ca"
-image: "assets/img/businesses/hero-tuff-turf.png"
-feature_image: "/assets/img/businesses/image-tuff-turf.png"
+image: "https://valley-road.github.io/assoc-web/assets/img/businesses/hero-tuff-turf.png"
+feature_image: "https://valley-road.github.io/assoc-web/assets/img/businesses/image-tuff-turf.png"
 address: 225 Valley Road, Saskatoon, Saskatchewan, S7K 3J6
 phone: 306-384-5644
 longlat: -106.742688,52.081188

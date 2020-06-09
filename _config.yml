@@ -69,13 +69,13 @@ collections:
     output: true
     description: "" # The post list page content
     feature_text: ""
-    feature_image: "/assets/img/news.jpg"
+    feature_image: "https://valley-road.github.io/assoc-web/assets/img/news.jpg"
   businesses:
     title: Businesses # Needed for Siteleaf
     output: true
     description: "" # The post list page content
     feature_text: ""
-    feature_image: "/assets/img/businesses.jpg"
+    feature_image: "https://valley-road.github.io/assoc-web/assets/img/businesses.jpg"
 
 # 6. Jekyll collections settings
 defaults:
@@ -83,7 +83,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "assets/default-social-image.png" # Default image for sharing
+      image: "https://valley-road.github.io/assoc-web/assets/default-social-image.png" # Default image for sharing
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right

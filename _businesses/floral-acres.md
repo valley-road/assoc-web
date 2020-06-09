@@ -3,8 +3,8 @@ layout: business
 title: Floral Acres Garden Centre
 tags: Garden Centre, Greenhouse
 website: "https://floralacres.ca/"
-image: "assets/img/businesses/hero-floral-acres.png"
-feature_image: "/assets/img/businesses/image-floral-acres.png"
+image: "https://valley-road.github.io/assoc-web/assets/img/businesses/hero-floral-acres.png"
+feature_image: "https://valley-road.github.io/assoc-web/assets/img/businesses/image-floral-acres.png"
 address: 310 Valley Road, Saskatoon, Saskatchewan, S7K 3J6
 phone: 306-382-7352
 longlat: -106.740313,52.070813
