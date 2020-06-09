@@ -3,8 +3,8 @@ layout: business
 title: Lakseshore Tree Farm
 tags:
 website: "http://www.lakeshoretreefarms.com"
-image: "https://valley-road.github.io/assoc-web/assets/img/businesses/hero-lakeshore-tree-farm.png"
-feature_image: "https://valley-road.github.io/assoc-web/assets/img/businesses/image-lakeshore-tree-farm.png"
+image: "https://valley-road.github.io/assoc-web/assets/img/businesses/hero-lakeshore-tree-farm.jpg"
+feature_image: "https://valley-road.github.io/assoc-web/assets/img/businesses/image-lakeshore-tree-farm.jpg"
 address: 960 Valley Road, Saskatoon, Saskatchewan, S7K 3J6
 phone: 877-995-5253
 longlat: -106.785187,51.997187

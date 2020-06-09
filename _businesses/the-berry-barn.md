@@ -3,8 +3,8 @@ layout: business
 title: The Berry Barn
 tags:
 website: "https://www.berrybarn.ca"
-image: "https://valley-road.github.io/assoc-web/assets/img/businesses/hero-berry-barn.png"
-feature_image: "https://valley-road.github.io/assoc-web/assets/img/businesses/image-berry-barn.png"
+image: "https://valley-road.github.io/assoc-web/assets/img/businesses/hero-berry-barn.jpg"
+feature_image: "https://valley-road.github.io/assoc-web/assets/img/businesses/image-berry-barn.jpg"
 address: 830 Valley Road, Saskatoon, Saskatchewan, S7K 3J6
 phone: 306-978-9797
 longlat: -106.746313,51.996062
