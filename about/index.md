@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About Us"
-feature_image: "assets/img/about.jpg"
+feature_image: "/assets/img/about.jpg"
 ---
 
 Valley Road Association collectively represents the interests of business in our economic area for the mutual success of our businesses and communities. Our mandate is to focus on business development, promotion and creation of economic opportunities in our communities. We will create awareness within our development area of the wide range of stable, competitive services that are available by competent trade, professional and service sectors.

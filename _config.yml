@@ -69,13 +69,13 @@ collections:
     output: true
     description: "" # The post list page content
     feature_text: ""
-    feature_image: "assets/img/news.jpg"
+    feature_image: "/assets/img/news.jpg"
   businesses:
     title: Businesses # Needed for Siteleaf
     output: true
     description: "" # The post list page content
     feature_text: ""
-    feature_image: "assets/img/businesses.jpg"
+    feature_image: "/assets/img/businesses.jpg"
 
 # 6. Jekyll collections settings
 defaults:

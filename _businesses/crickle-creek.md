@@ -4,7 +4,7 @@ title: Crickle Creek
 tags:
 website: "http://cricklecreek.ca"
 image: "assets/img/businesses/hero-crickle-creek.png"
-feature_image: "assets/img/businesses/hero-crickle-creek.png"
+feature_image: "/assets/img/businesses/hero-crickle-creek.png"
 address: 305 Valley Road, Saskatoon, Saskatchewan, S7K 3J6
 phone: 306-251-0116
 longlat: -106.742313,52.071188

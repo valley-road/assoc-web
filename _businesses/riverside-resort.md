@@ -4,7 +4,7 @@ title: Riverside Resort for Pets
 tags:
 website: "https://www.riversideresortforpets.ca"
 image: "assets/img/businesses/hero-riverside-resort.png"
-feature_image: "assets/img/businesses/image-riverside-resort.png"
+feature_image: "/assets/img/businesses/image-riverside-resort.png"
 address: Box 118 R.R.#3, Saskatoon, Saskatchewan, S7K 3J6
 phone: 306-665-7387
 longlat: -106.730563,52.084938

@@ -4,7 +4,7 @@ title: Rhodes Raspberries & Blackcurrants
 tags:
 website: "http://www.rhodesraspberries.ca"
 image: "assets/img/businesses/hero-rhodes-raspberries.png"
-feature_image: "assets/img/businesses/image-rhodes-raspberries.png"
+feature_image: "/assets/img/businesses/image-rhodes-raspberries.png"
 address: Carmart Road, Saskatoon, Saskatchewan, S0L 3J0
 phone: 306-934-6748
 longlat: -106.764562,52.091188

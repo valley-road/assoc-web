@@ -4,7 +4,7 @@ title: Black Fox Farm & Distillery
 tags:
 website: "https://blackfoxfarmanddistillery.com"
 image: "assets/img/businesses/hero-black-fox-farm.png"
-feature_image: "assets/img/businesses/hero-black-fox-farm.png"
+feature_image: "/assets/img/businesses/hero-black-fox-farm.png"
 address: 245 Valley Road, Saskatoon, Saskatchewan, S7K 3J6
 phone: 306-380-6278
 longlat: -106.745812,52.077063

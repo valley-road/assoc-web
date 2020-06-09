@@ -4,7 +4,7 @@ title: Moon Lake Golf & Country Club
 tags:
 website: "https://moonlakegolf.com"
 image: "assets/img/businesses/hero-moon-lake-golf.png"
-feature_image: "assets/img/businesses/image-moon-lake-golf.png"
+feature_image: "/assets/img/businesses/image-moon-lake-golf.png"
 address: 905 Valley Road, Saskatoon, Saskatchewan, S7M 5Y1
 phone: 306-382-7787
 longlat: -106.766312,52.013062

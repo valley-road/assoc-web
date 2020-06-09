@@ -4,7 +4,7 @@ title: Robertson Valley Farm
 tags:
 website: "https://www.facebook.com/robertsonvalleyfarm/"
 image: "assets/img/businesses/hero-robertson-valley-farm.png"
-feature_image: "assets/img/businesses/image-robertson-valley-farm.png"
+feature_image: "/assets/img/businesses/image-robertson-valley-farm.png"
 address: 380 Valley Road, Saskatoon, Saskatchewan, S7K 3J6
 phone: 306-382-9544
 longlat: -106.740313,52.058062

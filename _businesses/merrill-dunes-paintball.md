@@ -4,7 +4,7 @@ title: Merrill Dunes Paintball
 tags:
 website: "http://merrilldunes.ca"
 image: "assets/img/businesses/hero-merrill-dunes.png"
-feature_image: "assets/img/businesses/image-merrill-dunes.png"
+feature_image: "/assets/img/businesses/image-merrill-dunes.png"
 address: 457 Merrill Lane, Saskatoon, Saskatchewan, S7K 3J6
 phone: 306-382-2728
 longlat: -106.790312,52.048063
