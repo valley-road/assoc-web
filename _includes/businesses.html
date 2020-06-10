@@ -1,0 +1,17 @@
+<hr>
+
+<div class="posts">
+    {% for business in site.businesses %}
+    <div class="post">
+        <h1 class="post-title">
+        <a href="{{ business.url | relative_url }}">
+            {{ business.title }}
+        </a>
+        </h1>
+        <a href="{{ business.url | relative_url }}">
+        <img src="{{business.image | relative_url }}" alt="{{business.title}}" />
+        </a>
+    </div>
+    <hr>
+    {% endfor %}
+</div>
