@@ -1,0 +1,29 @@
+{% for member in site.data.members %}
+    <div>
+        <!-- MEMBER POSITION -->
+        <h2>
+            {{ member.position }}
+        </h2>
+        
+        <!-- MEMBER PHOTO -->
+        <img src="{{member.image | relative_url }}" alt="{{member.name}}" />
+        
+        <!-- MEMBER NAME -->
+        <h6>
+            {{ member.name }}
+        </h6>
+        
+        <!-- MEMBER EMAIL -->
+        <p>
+            Email: <a href="mailto:{{ member.email }}">
+                {{ member.email }}
+            </a>
+        </p>               
+        <!-- MEMBER BIO -->
+        <p>
+            Bio: {{ member.bio }}
+        </p>
+    </div>
+
+    <hr>
+{% endfor %}
